@@ -25,7 +25,7 @@ Data cleaning and transformation were undertaken in Microsoft Power Bi. Actions 
 All analysis and visualizations were done in Microsoft Power Bi. Some visuals required the writing of Data Analysis Expression (DAX) before their creation.
 
 ### Insights
-Please download the powerpoint for a comprehensive report.
+Please download the powerpoint file for the comprehensive report.
 ![Slide1](https://user-images.githubusercontent.com/107181687/225959601-021f28e6-d6b7-47e8-b58d-b63631eb2b7b.PNG)
 ![Slide2](https://user-images.githubusercontent.com/107181687/225959608-250f0f26-7eb5-41ee-9e18-ef3edcf1c848.PNG)
 ![Slide3](https://user-images.githubusercontent.com/107181687/225959617-22fbd367-8777-4288-90ab-8b88d839da91.PNG)
