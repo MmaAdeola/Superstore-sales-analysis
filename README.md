@@ -6,7 +6,8 @@ Preview:
 ![customer segment and region](https://user-images.githubusercontent.com/107181687/225951326-3e53bbae-9c03-498e-874b-1b241be58c14.PNG)
 
 
-2. Product details: Contains all the details of the products sold in the store, including product ID, name, category subcategory and others. Preview:
+2. Product details: Contains all the details of the products sold in the store, including product ID, name, category subcategory and others.
+Preview:
 ![Product Details](https://user-images.githubusercontent.com/107181687/225952296-91fc81bd-8680-4f94-9e61-5d27c7971960.PNG)
 
 
