@@ -7,7 +7,6 @@ Preview:
 
 
 2. Product details: Contains all the details of the products sold in the store, including product ID, name, category subcategory and others.
-Preview:
 ![Product Details](https://user-images.githubusercontent.com/107181687/225952296-91fc81bd-8680-4f94-9e61-5d27c7971960.PNG)
 
 
