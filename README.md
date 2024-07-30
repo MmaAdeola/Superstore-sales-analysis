@@ -16,7 +16,7 @@ Preview:
 
 
 ### Data Pre-processing
-Data cleaning and transformation were undertaken in Microsoft Power Bi. Actions taken include:
+Data cleaning and transformation were undertaken in Microsoft Power BI. Actions taken include:
 
 - Removal of duplicates.
 - Correction of wrong data types.
