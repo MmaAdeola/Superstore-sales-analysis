@@ -22,7 +22,7 @@ Data cleaning and transformation were undertaken in Microsoft Power BI. Actions 
 - Correction of wrong data types.
 
 ### Exploratory Data Analysis (EDA)
-All analysis and visualizations were done in Microsoft Power Bi. Some visuals required the writing of Data Analysis Expression (DAX) before their creation.
+All analysis and visualizations were done in Microsoft Power BI. Some visuals required the writing of Data Analysis Expression (DAX) before their creation.
 
 ### Insights
 Please download the powerpoint file for the comprehensive report.
